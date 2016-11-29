@@ -1,0 +1,12 @@
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 4C 4_2 2 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 4C 4_4 4 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 4C 4_6 6 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 4C 4_8 8 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 3C 3_2 2 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 3C 3_4 4 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 3C 3_6 6 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 3C 3_8 8 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 2C 2_2 2 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 2C 2_4 4 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 2C 2_6 6 0.1 1
+./bin/spark-submit --class PCIR --master spark://113.55.13.60:7077 --executor-memory 100g --driver-memory 200g /home/cluster_staff/finneen/app/seed5.jar 2C 2_8 8 0.1 1
